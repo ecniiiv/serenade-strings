@@ -1,8 +1,8 @@
-#Serenade Strings
+# Serenade Strings
 Serenade Strings is simple landing page website for a fictional guitar shop
 
 
-##Tools used
+## Tools used
 * HTML
 * CSS
 
