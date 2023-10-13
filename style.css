@@ -115,7 +115,6 @@ html {
   position: relative;
   color: var(--clr-text-primary);
   margin-bottom: 20rem;
-  border: 1px solid;
   z-index: 5;
 }
 
@@ -136,7 +135,6 @@ html {
   justify-content: center;
 
   position: absolute;
-  border: 1px solid red;
   inset: -5rem;
   top: -10rem;
   left: -10rem;
